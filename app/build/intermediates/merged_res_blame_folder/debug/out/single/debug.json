@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gold_dog.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\gold_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gold_camel.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\gold_camel.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gold_rabbit.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\gold_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_silver_dog.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\silver_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bordershape.xml.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\drawable\\bordershape.xml"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_silver_cat.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\silver_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gold_dog.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\gold_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_silver_dog.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\silver_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gold_cat.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\gold_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_silver_elephant.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\silver_elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_silver_dog.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\silver_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_silver_camel.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\silver_camel.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gold_elephant.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\gold_elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gold_cat.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\gold_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_arrow_up.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_silver_horse.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\silver_horse.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gold_elephant.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\gold_elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_silver_horse.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\silver_horse.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_arrow_up.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_silver_horse.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\silver_horse.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_silver_elephant.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\silver_elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gold_elephant.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\gold_elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_silver_cat.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\silver_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gold_rabbit.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\gold_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_arrow_up.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-anydpi-v26\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gold_horse.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\gold_horse.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_arrow_up.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_silver_rabbit.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\silver_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gold_elephant.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\gold_elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gold_rabbit.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\drawable\\gold_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gold_cat.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\gold_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gold_horse.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\gold_horse.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_silver_elephant.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\silver_elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_silver_cat.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\silver_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gold_cat.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\gold_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_silver_cat.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\silver_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gold_horse.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\gold_horse.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gold_camel.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\gold_camel.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_silver_camel.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\silver_camel.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_silver_dog.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\silver_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gold_dog.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\gold_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gold_camel.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\gold_camel.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_gold_dog.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\gold_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_silver_horse.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\silver_horse.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gold_horse.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\gold_horse.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_silver_camel.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\silver_camel.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_silver_elephant.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\silver_elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_silver_rabbit.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\silver_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_gold_rabbit.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\gold_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gold_dog.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\gold_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_silver_rabbit.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\silver_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\layout_scorecard.xml.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\layout\\scorecard.xml"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_silver_rabbit.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\silver_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_arrow_up.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gold_cat.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\gold_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_silver_camel.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\silver_camel.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gold_camel.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\gold_camel.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_silver_horse.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\silver_horse.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_silver_cat.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\silver_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_silver_dog.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xhdpi\\silver_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gold_rabbit.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\gold_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_silver_rabbit.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-hdpi\\silver_rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_silver_camel.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\silver_camel.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_arrow_up.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxhdpi\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_silver_elephant.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\silver_elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gold_elephant.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\gold_elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_gold_camel.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-mdpi\\gold_camel.png"
+    },
+    {
+        "merged": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_gold_horse.png.flat",
+        "source": "C:\\Users\\clint\\AndroidStudioProjects\\Assignment2\\app\\src\\main\\res\\mipmap-xxxhdpi\\gold_horse.png"
+    }
+]

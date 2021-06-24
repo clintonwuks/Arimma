@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arimma</string>
+    <string name="play1">Player 1</string>
+    <string name="play2">Player 2</string>
+    <string name="player2_turn">PLAYER 2 TURN</string>
+    <string name="player1_turn">PLAYER 1 TURN</string>
+</resources>
